@@ -10,3 +10,23 @@ header{
     padding-top: 55px;
     color: aliceblue;
 }
+.section-1
+{
+    width: 900px;
+    margin: auto;
+}
+.section-1 h1{
+    color: #a52b2a;
+}
+.section-items
+{
+    display: flex;
+    justify-content: space-between;
+}
+.section-items1{
+    width: 250px;
+    height: 170px;
+    background-color: #a52b2a;
+    color: aliceblue;
+    padding: 20px;
+}
