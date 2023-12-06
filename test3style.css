@@ -23,10 +23,25 @@ header{
     display: flex;
     justify-content: space-between;
 }
-.section-items1{
+.block{
     width: 250px;
     height: 170px;
     background-color: #a52b2a;
     color: aliceblue;
     padding: 20px;
+}
+.section-2{
+   width: 900px;
+   margin: auto; 
+}
+.section-2 h2{
+    color: #a52b2a;
+}
+.block-1
+{
+    width: 210px;
+    background-color: #a52b2a;
+    color: aliceblue;
+    box-sizing: border-box;
+    padding: 15px;
 }
