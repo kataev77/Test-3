@@ -45,3 +45,14 @@ header{
     box-sizing: border-box;
     padding: 15px;
 }
+footer{
+    width: 900px;
+    height: 100px;
+    background-color: #a52b2a;
+    margin: auto;
+    text-align: center;
+}
+.items-foot{
+    padding-top: 30px;
+    color: aliceblue;
+}
