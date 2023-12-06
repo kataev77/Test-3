@@ -1,0 +1,12 @@
+header{
+    width: 900px;
+    height: 150px;
+    background-color: #a52b2a;
+    margin: auto;
+    text-align: center;
+}
+.items-head
+{
+    padding-top: 55px;
+    color: aliceblue;
+}
